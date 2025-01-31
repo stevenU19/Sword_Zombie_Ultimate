@@ -1,16 +1,16 @@
 # Sword_Zombie_Ultimate
-Sword Zombie Ultimate es un juego construido con la libreria pygame en Python, que Cuenta con las siguientes características: Manejo de Funciones y Clases por medio de un desarrollo modular. Personajes y Enemigos, en el cual destaca un personaje principal, 
-enemigos dinámicos y elementos interactivos. En cuanto a Sistemas de Juego, cuenta con un sistema de puntuación, un sistema dinámico de vidas y dinámica de ataque. En el apartado de Armas, el personaje principal utiliza una katana para atacar a los enemigos.
+Sword Zombie Ultimate es un juego construido con la libreria pygame en Python, que cuenta con las siguientes características: Manejo de Funciones y Clases por medio de un desarrollo modular. Personajes y Enemigos, en el cual destaca un personaje principal, 
+enemigos dinámicos y elementos interactivos. En cuanto a Sistemas de Juego, cuenta con un sistema de puntuación, un sistema dinámico de vidas y dinámica de ataque. En el apartado de armas, el personaje principal utiliza una katana para atacar a los enemigos.
 
 # Herramientas Utilizadas
 
-- Lenguaje de programación utilizado: Python
-- Framework de desarrollo base: PyCharm
-- Librerías: Hace uso de PyGame, para el desarrollo de gráficos y lógica base del juego.
+- Usa Python como lenguaje de programación
+- PyCharm como Framework de desarrollo base
+- Hace uso de la librería PyGame, para el desarrollo de gráficos y lógica base del juego.
 
 # Descripción del Juego
 
-Sword Zombie Ultimate es un juego diseñado para niños, es intuitivo y muy fácil de usar.
+Sword Zombie Ultimate es un juego diseñado para niños, es intuitivo, con cierto nivel de dificultad pero de muy fácil uso.
 
 # Objetivo
 
@@ -20,6 +20,7 @@ El personaje principal es una chico que debe defender su torre de un ataque zomb
 2. Evitar bajar su barra de vida al ser atacado por los zombies.
 3. Usar su katana para destruir a todos sus enemigos.
 4. Tiene dos elementos que le pueden ayudar a recuperar vida.
+5. Los zombies tienen la particularidad de que recupera su vida muy rápido.
 
  # Condiciones de Victoria y Derrota
 
